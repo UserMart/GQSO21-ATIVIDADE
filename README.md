@@ -1,3 +1,3 @@
 # Projeto Calculadora (GQSO 924 IFAL)
 
-TODO(jose_martins-ifal):  Nosso Software alvo consiste em uma API HTTP (inspirada em REST) para calculadora com 2 (duas) operações: GET /soma/1.5/2.3 ==> retorna "3.8" e GET /sub/2/1 ==> retorna "1". Operando e retornando números decimais representados com ponto (.) como delimitador. Se caso houver entradas inválidas devem retornar o código dde status HTTP 400 (bad request).
+Esta projeto contém o código de uma API REST Calculadora.
