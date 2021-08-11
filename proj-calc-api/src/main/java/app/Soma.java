@@ -18,7 +18,7 @@ public class Soma {
                return String.format("%2f", result);
         } 
         catch (NumberFormatException nfe){
-            throw  new BadRequestException(String.format("Este Parâmetro é inválido:\"%s\"", result);
+            throw  new BadRequestException(String.format("Este Parâmetro é inválido!", result);
 
         }	
      
