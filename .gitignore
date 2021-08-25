@@ -2,5 +2,4 @@
 lib/
 bin/
 run/
-target/
-tmp/
+proj-calc-api/

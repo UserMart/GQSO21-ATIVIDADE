@@ -5,9 +5,8 @@ import io.jooby.Jooby;
 public class App extends Jooby {
 
   {
-    // rotas
-    mvc(new Controller());
-    mvc(new Soma());
+
+    get("/", ctx -> "Welcome to Jooby!");
   }
 
   public static void main(final String[] args) {
