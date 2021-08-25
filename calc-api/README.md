@@ -1,6 +1,6 @@
-# proj-calc-api
+# calc-api/
 
-Welcome to proj-calc-api!!
+Welcome to calc-api/!!
 
 ## running
 
