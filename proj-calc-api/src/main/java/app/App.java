@@ -8,6 +8,7 @@ public class App extends Jooby {
     // rotas
     mvc(new Controller());
     mvc(new Soma());
+    mvc(new Subtracao());
   }
 
   public static void main(final String[] args) {
